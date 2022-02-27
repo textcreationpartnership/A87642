@@ -1,0 +1,566 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lieut: General Jones's letter to the Councel of State, of a great victory which it hath pleased God to give the forces in the city of Dublin under his command, on the second of this instant August, against the Earl of Ormond's and the Lord Inchiquin's forces before that city. Together with the list of all the prisoners and ammunition taken, and the narrative of Captain Otway, who was in the fight. Die Saturni, 11⁰ Augusti, 1649. At the Councel of State at White-Hall; ordered, that the letter from Lieutenant General Jones ... be forthwith printed and published: ... Gualter Frost Secr'</title>
+            <author>Jones, Michael, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87642</idno>
+            <idno type="STC">Wing J983</idno>
+            <idno type="STC">Thomason E569_1</idno>
+            <idno type="STC">ESTC R202632</idno>
+            <idno type="EEBO-CITATION">99862854</idno>
+            <idno type="PROQUEST">99862854</idno>
+            <idno type="VID">165319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165319)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E569[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lieut: General Jones's letter to the Councel of State, of a great victory which it hath pleased God to give the forces in the city of Dublin under his command, on the second of this instant August, against the Earl of Ormond's and the Lord Inchiquin's forces before that city. Together with the list of all the prisoners and ammunition taken, and the narrative of Captain Otway, who was in the fight. Die Saturni, 11⁰ Augusti, 1649. At the Councel of State at White-Hall; ordered, that the letter from Lieutenant General Jones ... be forthwith printed and published: ... Gualter Frost Secr'</title>
+                  <author>Jones, Michael, d. 1649.</author>
+                  <author>Otway, Captain.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 11. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Otway's narrative is given as an abstract.</note>
+                  <note>An expanded reprint. P. 1-5 are the same setting; the list of prisoners on p. 6 has been expanded to p. 6-9; original p. 7-8 are reimposed to p. 10-11.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dublin (Ireland) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165319:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>Lieut: General <hi>Jones</hi>'s LETTER To the Councel of State, Of a Great VICTORY Which it hath pleaſed God to give the Forces in the City of <hi>Dublin</hi> under his Command, on the Second of this inſtant <hi>August,</hi> againſt the Earl of <hi>Ormond</hi>'s and the Lord <hi>Inchiquin</hi>'s Forces before that City.</p>
+            <p>Together with the Liſt of all the Priſoners and Ammunition taken, and the Narrative of Captain <hi>Otway,</hi> who was in the Fight.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Saturni, 11<hi rend="sup">o</hi> Auguſti, 1649.</date> At the Councel of State at <hi>White-Hall;</hi>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered,</hi> That the Letter from Lieutenant General <hi>Jones</hi> from <hi>Dublin</hi> of the 6<hi rend="sup">th</hi> of this inſtant <hi>Auguſt,</hi> relating the Victory which it hath pleaſed God to give the Forces of the City of <hi>Dublin</hi> under his Command, againſt the Army of <hi>Ormond</hi> before that City; together with the Liſt of Priſoners and Ammunition taken, and the Narrative of Captain <hi>Otway,</hi> be forthwith printed and publiſhed: And that it be ſent to the Lord Major of <hi>London,</hi> to be ſent to all the Miniſters within his Iuriſdiction; who are hereby required to publiſh the ſame to morrow, being Lords day, the 12<hi rend="sup">th</hi> of <hi>Auguſt</hi> in their publique Con<g ref="char:EOLhyphen"/>gregations, That there may be upon this occaſion, an Acknowledgement of the goodneſs of God to this Commonwealth, in ſo ſeaſonable a Victory; and that it be alſo ſent to the reſt of the Miniſters within the late Lines of Com<g ref="char:EOLhyphen"/>munication to be publiſhed as aforeſaid.</p>
+                        <closer>
+                           <signed>GUALTER FROST Secr'</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England, Auguſt</hi> 11. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165319:2"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="3" facs="tcp:165319:2"/>
+            <!-- PDF PAGE 42 -->
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>THe Lord hath bleſſed this your Army with good ſucceſs againſt <hi>Ormond</hi> and his, for which Gods moſt holy Name be ever glori<g ref="char:EOLhyphen"/>fied. The account of that ſervice is thus briefly: On the firſt of this inſtant, the Enemy began his approaches to this place more then formerly, and that night was <hi>Ormond, Preſton,</hi> and the chiefeſt of that Army, at a Work begun at <hi>Baggotſrath,</hi> about a quar<g ref="char:EOLhyphen"/>ter of a mile hence Eaſtward of the City, upon the Sea, thence they purpoſed to run forward to our Tren<g ref="char:EOLhyphen"/>ches on the Land-ſide, and to raiſe their Forts towards the Water, for hindering the landing of thoſe ſupplyes and Forces expected. They had before cut off the wa<g ref="char:EOLhyphen"/>ter-running from the higher grounds into the City, whereby our Mills had been driven, and in their preſent work would they have cut us off from all forage for our cattle: To this end was that very night, a Breſt-work by them made croſſe the high-way, neer <hi>Baggotſrath,</hi> whereabouts was the onely grazing-place left for us. As for the Caſtle of <hi>Baggotſrath,,</hi> I cauſed it to be be<g ref="char:EOLhyphen"/>fore demolliſhed, ſo as it was not capable of a Garri<g ref="char:EOLhyphen"/>ſon, foreſeeing what our prejudice might be in their poſſeſſing it.</p>
+            <p>On thurſday the ſecond, we diſcovered a party of the Enemies, drawn to <hi>Baggotsrath,</hi> about fifteen hundred foot, beſides horſe. We found a neceſſity for removing them, and that ſpeedily: and ſeeing the nearneſs of the Enemies camp at <hi>Rathmynes,</hi> (leſs then a mile from <hi>Baggotsrath</hi>) where they might be readily relieved with greater force as occaſion might require; therefore did I advance with ſo much a greater ſtrength, about twelve hundred horſe, and four thouſand foot.</p>
+            <p>The Enemies work at <hi>Baggotsrath</hi> we ſoon entred,
+<pb n="4" facs="tcp:165319:3"/>
+               <!-- PDF PAGE 43 -->
+yet not without ſtrong diſpute: moſt of the Enemies foot there were ſlain and taken, their horſe having de<g ref="char:EOLhyphen"/>ſerted them, after the firſt charge.</p>
+            <p>Our horſe and foot purſuing their advantages, we be<g ref="char:EOLhyphen"/>came at laſt wholly engaged with their whole Army, whom after two hours fight, we totally routed.</p>
+            <p>We ſlew on the place, and in the chaſe, about four thouſand; and have two thouſand five hundred and ſe<g ref="char:EOLhyphen"/>venteen priſoners, moſt of them <hi>Inchiquines</hi> Engliſh, and of our run-aways. We got one whole Cannon, three Demi-Cannons, one long-ſquare gun, carrying a ball of twelve pound, one Saker-drake, and one Mor<g ref="char:EOLhyphen"/>ter-piece, (all theſe braſs) and ſome Trayn-carriages, and about two hundred draught Oxen for the Trayn.</p>
+            <p>The Strength of the Enemy was by themſelves ſince acknowledged Nineteen thouſand; <hi>Ormond</hi> narrowly eſcaped: Of our men there are not twenty miſſing, many wounded. The greateſt loſs fell on the horſe, wherein my Regiment hath much ſuffered, which I hum<g ref="char:EOLhyphen"/>bly deſire may be conſidered, together with my former loſſes in the ſame kinde in former Services, and there<g ref="char:EOLhyphen"/>fore that larger Recruits may be given me: To which end I have employed thither this Gentleman Captain <hi>Otway,</hi> one faithful and forward, whom I make bold to recommend unto your favor.</p>
+            <p>This whole work is the Lords doing, and it is mar<g ref="char:EOLhyphen"/>vellous in our eyes: By whoſe eſpecial providence it was that we ſhould thus engage, we our ſelves at firſt not ſo far intending it: Neither did the Enemy ex<g ref="char:EOLhyphen"/>pect our ſo doing; nor would they have willingly en<g ref="char:EOLhyphen"/>gaged with us, if it might have been by them avoided, they reſerving themſelves for the coming up of <hi>Clan<g ref="char:EOLhyphen"/>ricard</hi> with his <hi>Connaght</hi> forces about Three thouſand, and the Lord of <hi>Ardes</hi> with his Seven thouſand Scots,
+<pb n="5" facs="tcp:165319:3"/>
+               <!-- PDF PAGE 43 -->
+all ready for marching; <hi>Inchiquine</hi> alſo being looked for, who had the week before gone towards <hi>Munſter,</hi> with two Regiments of horſe, for appeaſing ſome ſtir<g ref="char:EOLhyphen"/>rings there by <hi>Owen Roe,</hi> raiſed in his abſence. Never was any day in <hi>Ireland</hi> like this, to the confuſion of the Iriſh, and to the raiſing up the ſpirits of the poor Engliſh, and to the reſtoring of the Engliſh Intereſt, which from their firſt footing in <hi>Ireland</hi> was never in ſo low a con<g ref="char:EOLhyphen"/>dition, as at that very inſtant, there not being any one conſiderable landing place left you, but this alone, and this alſo (without this the Lords timely and moſt graci<g ref="char:EOLhyphen"/>ous goodneſs and providence to us) almoſt gone.</p>
+            <p>Yet is not all this any ground of Security, whereby may be kept back or delayed the Supplies deſigned us; for moſt of our Gariſons are yet to be taken in, and the Enemy to be ſpeedily followed, that they recover not (which yet they may do to a conſiderable number) and that they either poſſeſs not themſelves of this Har<g ref="char:EOLhyphen"/>veſt, or hinder us of it. For our ſelves as at preſent, we are not in condition to proſecute this great Victory as we ſhould and would, wanting pay for our men, and ne<g ref="char:EOLhyphen"/>ceſſary proviſions, which would be now made over to us ſpeedily and plentifully, this being the time, and the occaſion being now offered for a full ending of this War, by its vigorous proſecution, the opportunity whereof is not to be in any caſe omitted; beſides the ſecurity therein rendred to your affairs there, whereun<g ref="char:EOLhyphen"/>to all theſe movings might have been dangerouſly car<g ref="char:EOLhyphen"/>ried, as they were by <hi>Ormond</hi> and his Party intended. All which I leave to your moſt wiſe conſideration, and as ever, remain</p>
+            <closer>
+               <signed>Your Honors moſt faithful Servant, <hi>MIC: JONES.</hi>
+               </signed>
+               <dateline>Dublin,
+<date>Aug. 6. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="lists_of_prisoners">
+            <pb n="6" facs="tcp:165319:4"/>
+            <!-- PDF PAGE 44 -->
+            <head>Priſoners taken the ſecond of <hi>Auguſt,</hi> 1649.</head>
+            <list>
+               <head>Field-Officers.</head>
+               <item>COl: <hi>Chriſtopher Plun<g ref="char:EOLhyphen"/>ket</hi> Earl of Fingal.</item>
+               <item>Col: <hi>Richard Butler</hi> the Lo: of <hi>Ormonds</hi> brother.</item>
+               <item>Lieut: Col: <hi>Michael Searl</hi> Adjutant General.</item>
+               <item>Lieut: Col: <hi>Aldworth.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Standley.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Tho: Forteſcu.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Jeſper Taaff.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Gerard,</hi> Lieut: to the Fuiſeers.</item>
+               <item>Major <hi>Roger Garland.</hi>
+               </item>
+               <item>Major <hi>Oliver Fitz Simons</hi>
+               </item>
+               <item>Major <hi>Comin.</hi>
+               </item>
+               <item>Major <hi>Henry Littell.</hi>
+               </item>
+               <item>Major <hi>Charls Norwood.</hi>
+               </item>
+               <item>Major <hi>Riddar,</hi> Major to Col: <hi>Blunt.</hi>
+               </item>
+               <item>Major <hi>Fleetwood,</hi> Serjeant to the Fuiſeers.</item>
+               <item>Major <hi>Shalop.</hi>
+               </item>
+               <item>Sir <hi>George Bingham</hi> Ba<g ref="char:EOLhyphen"/>ronet.</item>
+            </list>
+            <list>
+               <head>Captains.</head>
+               <item>Daniel.</item>
+               <item>Leſton.</item>
+               <item>James Fleming.</item>
+               <item>Dunn.</item>
+               <item>Geoghegan.</item>
+               <item>Henry Fitz Gerrald.</item>
+               <item>George Cuſacke.</item>
+               <item>Chriſtopher Barnewell.</item>
+               <item>Balthazar Newgent.</item>
+               <item>William Whittly.</item>
+               <item>Harbert Lewis.</item>
+               <item>Petty.</item>
+               <item>Cosby.</item>
+               <item>Jackſon.</item>
+               <item>May.</item>
+               <item>Graynier.</item>
+               <item>Thomas Bourke.</item>
+               <item>Daniel Mac Nemara.</item>
+               <item>Pierce Mac Kee.</item>
+               <item>Fergus Mageins.</item>
+               <item>Thomas Pluncket.</item>
+               <item>Povey.</item>
+               <item>Morris Harbert.</item>
+               <item>Townſen.</item>
+               <item>George Darcy.</item>
+               <item>Milemay.</item>
+               <item>Ofield.</item>
+               <item>Aymes.</item>
+               <item>Roger Flangherty.</item>
+               <item>
+                  <pb n="7" facs="tcp:165319:4"/>
+                  <!-- PDF PAGE 44 -->Ben: Pierce.</item>
+               <item>Arthur Aſten.</item>
+               <item>Dun.</item>
+               <item>Fitz Gerrald.</item>
+               <item>Dillon.</item>
+               <item>Cap: Lieut: James Wade.</item>
+               <item>Cap: Lieut: Dawning Barret.</item>
+               <item>Cap: Lieut: Foacks.</item>
+               <item>Cap: Lieut: John Alexander.</item>
+               <item>Barth: Fitz Gerrald.</item>
+               <item>
+                  <list>
+                     <head>Reformadoes.</head>
+                     <item>Holmes</item>
+                     <item>Cornee</item>
+                  </list>
+               </item>
+               <trailer>41</trailer>
+            </list>
+            <list>
+               <head>Lieutenants.</head>
+               <item>Robert Coyne.</item>
+               <item>Arthur Reynolds.</item>
+               <item>William Dallon.</item>
+               <item>Robert Lack.</item>
+               <item>Nicholas Raw.</item>
+               <item>Francis Coyn.</item>
+               <item>Richard Andrewes.</item>
+               <item>John Criſp.</item>
+               <item>Tho: Whitely.</item>
+               <item>James Giſlyne.</item>
+               <item>Henry Moſs.</item>
+               <item>William Merrill.</item>
+               <item>Paul Symons.</item>
+               <item>Math: Brown.</item>
+               <item>Edward Coates.</item>
+               <item>Rich: Betſworth.</item>
+               <item>Thomas Power.</item>
+               <item>Clement Greene.</item>
+               <item>Francis Hill.</item>
+               <item>Thomas Hill.</item>
+               <item>Foxe.</item>
+               <item>Barret.</item>
+               <item>Hamilton.</item>
+               <item>Searle.</item>
+               <item>Alexander.</item>
+               <item>Illwell.</item>
+               <item>Mevet.</item>
+               <item>Gibs.</item>
+               <item>Harris.</item>
+               <item>Browne.</item>
+               <item>Nevet.</item>
+               <item>Andrewes.</item>
+               <item>Street.</item>
+               <item>Roe.</item>
+               <item>Reynolds.</item>
+               <item>Thomas.</item>
+               <item>Towſen.</item>
+               <item>Lock.</item>
+               <item>Barnes.</item>
+               <item>Gilborn.</item>
+               <item>Fay.</item>
+               <item>Roſs Dempſey.</item>
+               <item>William Bourk.</item>
+               <item>Francis Fox.</item>
+               <item>Dutton.</item>
+               <item>Thomas Darcy.</item>
+               <item>John Pollet.</item>
+               <item>Garret Harbert.</item>
+               <item>John O Teige.</item>
+               <item>Miles Bourk.</item>
+               <item>Walter Huſſey.</item>
+               <item>John Andrews.</item>
+               <item>George Welſh.</item>
+               <item>Richard Pluncket.</item>
+               <item>Carbery Higgin.</item>
+               <item>Thomas Pierce.</item>
+               <item>Edward Dowdal.</item>
+               <item>Garret Reeves.</item>
+               <trailer>58.</trailer>
+            </list>
+            <list>
+               <pb n="8" facs="tcp:165319:5"/>
+               <!-- PDF PAGE 45 -->
+               <head>Enſigns.</head>
+               <item>Henry Colepeaſe.</item>
+               <item>Southwood.</item>
+               <item>Nicholas Mayl.</item>
+               <item>William Jewel.</item>
+               <item>Simon Pordon.</item>
+               <item>William Sanderſon.</item>
+               <item>William Pope.</item>
+               <item>William Crosby.</item>
+               <item>Peter Bulkley.</item>
+               <item>Harbert Whitefield.</item>
+               <item>Morton Vaughan.</item>
+               <item>Henry Leigh.</item>
+               <item>Robert Dreakin.</item>
+               <item>George Green.</item>
+               <item>Henry Banneſter.</item>
+               <item>George Giles.</item>
+               <item>Samuel Floyd.</item>
+               <item>Robert Fitz-Gerrald.</item>
+               <item>Edward Jans.</item>
+               <item>Palyn.</item>
+               <item>Dickſon.</item>
+               <item>Lillies.</item>
+               <item>Langford.</item>
+               <item>Willonton.</item>
+               <item>Bradley.</item>
+               <item>Rogers.</item>
+               <item>Brisby.</item>
+               <item>James Ennis.</item>
+               <item>Peter Smith.</item>
+               <item>Peter Walſh.</item>
+               <item>James Finis.</item>
+               <item>Richard Mealey.</item>
+               <item>Patr. Bolan.</item>
+               <item>Michael Taaff.</item>
+               <item>Patr. Boy Key.</item>
+               <item>Mortogh Mac Hary.</item>
+               <item>Owen Mahany.</item>
+               <item>Jo: Tirrel.</item>
+               <item>Edm. Mullegan.</item>
+               <item>Daniel Kevanagh.</item>
+               <item>Daniel Wyer:</item>
+               <item>Tho: Street.</item>
+               <trailer>42</trailer>
+            </list>
+            <list>
+               <head>Cornets.</head>
+               <item>Williams.</item>
+               <item>Jolliff.</item>
+               <item>George Mettam.</item>
+               <item>George Borray.</item>
+               <trailer>4</trailer>
+            </list>
+            <list>
+               <head>Quartermaſters.</head>
+               <item>Jones.</item>
+               <item>King.</item>
+               <item>Smith.</item>
+               <item>James Woods.</item>
+               <item>Edmund Stacy.</item>
+               <item>Blackwal.</item>
+               <trailer>6</trailer>
+            </list>
+            <list>
+               <item>
+                  <list>
+                     <head>Troopers:</head>
+                     <item>Mr: <hi>Lewis Richards.</hi>
+                     </item>
+                     <item>Mr: <hi>John Salman.</hi>
+                     </item>
+                     <item>Mr: <hi>Henry Wilkinſon.</hi>
+                     </item>
+                     <item>Mr: <hi>Griffith Cox.</hi>
+                     </item>
+                     <item>Mr: <hi>Edward Heald.</hi>
+                     </item>
+                     <item>Mr: <hi>Gore.</hi>
+                     </item>
+                     <item>Mr: <hi>Richard Bealing.</hi>
+                     </item>
+                     <item>Mr: <hi>Baggot.</hi>
+                     </item>
+                     <item>Francis Witherington.</item>
+                     <item>Mr: <hi>Miles Gyncks.</hi> [Gent:]</item>
+                     <trailer>10.</trailer>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>Robert Hamilton <hi>Miniſter.</hi>
+                     </item>
+                     <item>Ten Servants.</item>
+                     <item>Six Gunners.</item>
+                     <item>
+                        <pb n="9" facs="tcp:165319:5"/>
+                        <!-- PDF PAGE 45 -->John Bellew <hi>Lieutenant of the Ordinance.</hi>
+                     </item>
+                     <item>The Clerk of the Store.</item>
+                     <item>Six Trumpets.</item>
+                     <item>Six Chyrurgions.</item>
+                     <item>Ten belonging to the Train of Artilery.</item>
+                     <item>Sixty nine Sergeants.</item>
+                     <item>Twenty Drums.</item>
+                     <item>Fifty ſix Corporals.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Fuiſeers.</head>
+               <item>William Pets.</item>
+               <item>William Fitz-Gerald.</item>
+               <item>John Farling.</item>
+               <item>William Dowdal.</item>
+               <item>Rich. Maudſley.</item>
+               <item>Matthew Simple.</item>
+               <item>Bethel Vaughan.</item>
+               <item>William Rowlandſon.</item>
+               <item>Captain Hooker.</item>
+               <item>William Boyce.</item>
+               <item>John Gulſton.</item>
+               <item>Edmund Pooley.</item>
+               <item>Edward Garing.</item>
+               <item>John Bryers.</item>
+               <item>Thomas Tobe.</item>
+               <item>John Jennings.</item>
+               <item>Tho: Barrow.</item>
+               <item>Chriſtopher Sherman.</item>
+               <item>William Blake.</item>
+               <item>William Hopkins.</item>
+               <item>Edw: Jones.</item>
+               <item>John Williams.</item>
+               <item>Peter Cropper.</item>
+               <item>John Jackſon.</item>
+               <item>Robert Calvect.</item>
+               <item>Ralph Goodwin.</item>
+               <item>Robert Pain.</item>
+               <item>Gerard Ruſſel.</item>
+               <item>Richard Ellis.</item>
+               <item>Tho: Elliſon.</item>
+               <item>William Dextet.</item>
+               <item>Stephen Foxwiſt.</item>
+               <item>Henry Finch.</item>
+               <item>Robert Dalvin.</item>
+               <item>Thomas Stanly.</item>
+               <item>Francis Needham.</item>
+               <item>Robert Dalligeed.</item>
+               <item>Mat: Cardy.</item>
+               <item>Mat: Righby.</item>
+               <item>Morris Nangley.</item>
+               <item>Nicho: Allen.</item>
+               <item>Tho: Kemp.</item>
+               <item>Henry Booker.</item>
+               <item>Peter Bogerd.</item>
+               <item>Dennis Lord.</item>
+               <item>Robert Gardner.</item>
+               <item>Edward Gore.</item>
+               <item>Robert Gneens.</item>
+               <item>John Farehurſt.</item>
+               <item>Thomas Farrer.</item>
+               <item>Chriſtopher Perkenſon.</item>
+               <item>William Windeſler.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Halliwary.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Braſſe.</item>
+               <item>George Moor.</item>
+               <item>John Murfy.</item>
+               <trailer>56</trailer>
+            </list>
+         </div>
+         <div type="list_of_confiscated_artillery">
+            <pb n="10" facs="tcp:165319:6"/>
+            <!-- PDF PAGE 46 -->
+            <list>
+               <head>A Liſt of Artillery, taken from the Iriſh at <hi>Ram<g ref="char:EOLhyphen"/>nies,</hi> the ſecond of Auguſt, <hi>1649.</hi>
+               </head>
+               <item>ONe braſs Cannon, weighing ſeven thouſand three hundred twenty one pounds, her length ten foot, her bullet weighing forty four pound.</item>
+               <item>One braſs Demi-Cannon eldeſt, weighing five thou<g ref="char:EOLhyphen"/>ſand four hundred twenty eight pound, her length e<g ref="char:EOLhyphen"/>leven foot and an half, her bullet weighing thirty two pounds.</item>
+               <item>Two braſs Demi-Cannon of one mould, each weigh<g ref="char:EOLhyphen"/>ing forty four hundred, their length nine foot and a half, their bullet weighing twenty ſix pound.</item>
+               <item>One ſquare braſs Demi-Culverin, weighing two thouſand eight hundred pound, her length eleven foot, four inches, her bullet weighing twelve pounds.</item>
+               <item>One ſmall braſs Saker-Drake, weighing ſix hundred pound, her length four foot and a half, her bullet weigh<g ref="char:EOLhyphen"/>ing ſix pounds.</item>
+               <item>One braſs Morter-piece, weighing nine hundred and twenty ſeven pounds, her ſhell weighing one hundred pounds.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>JA. MOLYNEUX</item>
+                     <item>Mr. Gunner.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Two thouſand one hundred private Soldiers, where<g ref="char:EOLhyphen"/>of ſix hundred Iriſh, the reſt being of <hi>Inchequines</hi> par<g ref="char:EOLhyphen"/>ty, and have taken up arms for the Parliament, promi<g ref="char:EOLhyphen"/>ſing faithfulneſs. Theſe had quarter on the ſurrender of the Caſtles of <hi>Rathgar</hi> and <hi>Ramaynes,</hi> whither for gaining conditions, they had betaken themſelves.</p>
+            </postscript>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="11" facs="tcp:165319:6"/>
+            <!-- PDF PAGE 46 -->
+            <list>
+               <head>More Priſoners taken.</head>
+               <item>
+                  <hi>VVIlliam Cunningham,</hi> a noted Rebel.</item>
+               <item>Mr. <hi>Buggot,</hi> Deputy Pay-maſter.</item>
+               <item>Mr. <hi>John Harbert,</hi> Servant to the pretended King, who landed at <hi>Galway</hi> about ſix days ſince with the Kings Houſhold-goods.</item>
+            </list>
+         </div>
+         <div type="list_of_slain">
+            <list>
+               <head>Slain.</head>
+               <item>SIr <hi>William Vaughan,</hi>
+               </item>
+               <item>Sir <hi>Edward Verney,</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Daniel</hi> Brother in Law to the Lord <hi>Taaff,</hi>
+               </item>
+               <item>Colonel <hi>Gerrard,</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Matthews,</hi> Bro<g ref="char:EOLhyphen"/>ther in Law to the Earl of <hi>Ormond,</hi>
+               </item>
+               <item>Major <hi>Bretain,</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Beverly,</hi> Uſher.</item>
+            </list>
+            <p>Captain <hi>Otway,</hi> The Meſſenger that brought this diſpatch who was an Actor in that Service, further re<g ref="char:EOLhyphen"/>lates, That the Enemy marched away with ſuch haſte, as they left their whole Camp which was very well fur<g ref="char:EOLhyphen"/>niſhed of all proviſions of Victual, ſtore of Wine, Silks and Velvet, Scarlet and other cloth, both woollen and linen, and ſome money, all the Cattle left in the Quar<g ref="char:EOLhyphen"/>ters about <hi>Dublin</hi> as they found them there.</p>
+            <p>The Enemy hath quit ſeveral Gariſons upon their marching off; <hi>viZ. Manouth, Naas, Donahadee,</hi> and <hi>Richardſtown.</hi>
+            </p>
+            <p>
+               <hi>Wedneſday</hi> the Eighth was appointed to be a day of Thankſgiving in <hi>Dublin</hi> for this great Victory.</p>
+            <p>
+               <hi>Thurſday,</hi> Lieut: General <hi>Jones</hi> intended to march out again with his Army towards <hi>Drogheda.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
